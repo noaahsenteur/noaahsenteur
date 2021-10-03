@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noaahsenteur&label=Profile%20views&color=0e75b6&style=flat" alt="noaahsenteur" /> </p>
 
-- 🔭 I’m currently working on **Direct (chat app)**
+- 🔭 I’m currently working on **JO**
 
 - 🌱 I’m currently learning **Node.js & Express**
 
